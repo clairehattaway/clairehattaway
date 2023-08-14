@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clairehattaway
 - 👀 I’m interested in Computational Linguistics
-- 🌱 I’m currently learning everything I can! I'm relatively new to coding besides HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning everything I can about NLP.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
